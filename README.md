@@ -1,5 +1,5 @@
-# SimpleDeletion
-Scripts used in Simple Deletion analysis
+# Simple Deletion Analysis
+Scripts used in analysis
 
 ## Citation
 [to be filled...]
